@@ -4,7 +4,7 @@
 
 **AI Researcher | Engineer | Developer**
 
-🎯 **Obsessed about:** AI, ML, Data, Cybersecurity, and Hardware
+🎯 **Domains I am interested in:** AI/ML, Data Science, Business, Finance, Cybersecurity and Hardware
 
 🎓 **Currently a Student** of Electrical engineering at University of Kashmir
 
