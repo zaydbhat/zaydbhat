@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-## I'm Zayd Nazir Bhat
+## I am Zayd Nazir Bhat
 
 **AI Researcher | Student | Developer**
 
@@ -60,5 +60,9 @@
 ### 📫 **Let's Connect**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zaid-nazir-bhat-2b771237a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zayd_nazir?igsh=MTdlNWF6cng0M2Nncw==)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zaydnazir?si=cwprAhh2Q9I8Fs6Q)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](xvprime.zzz@gmail.com)
 
 ---
