@@ -67,5 +67,26 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaydbhat&layout=compact&theme=radical)
 
+## 🌐 **Social Media & Professional**
+
+### 💼 **LinkedIn**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-nazir-bhat-2b771237a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Connect with me professionally for career opportunities and networking!
+
+### 🐦 **X (Twitter)**
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zaydnazir?t=At0nHagsVlqIAQToWLy5uw&s=09)
+Follow for tech insights, AI updates, and quick thoughts!
+
+### 📸 **Instagram**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zayd_nazir?igsh=MTdlNWF6cng0M2Nncw==)
+Follow me for daily updates, behind-the-scenes, and personal content!
+
+### 📺 **YouTube**
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zaydnazir?si=m1mcjhN2dv1_oXLB)
+Subscribe to my channel for tutorials, projects, and tech content!
+
+### 📧 **Email**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xvprime.zzz@gmail.com)
+Feel free to reach out for collaborations, questions, or just to say hello!
 
 ---
