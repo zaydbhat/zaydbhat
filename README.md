@@ -2,11 +2,11 @@
 
 ## I am Zayd Nazir Bhat
 
-**AI Researcher | Student | Developer**
+**AI Researcher | Engineer | Developer**
 
 🎯 **Obsessed about:** AI, ML, Data, Cybersecurity, and Hardware
 
-🎓 **Currently a Student** at University of Kashmir
+🎓 **Currently a Student** of Electrical engineering at University of Kashmir
 
 ---
 
