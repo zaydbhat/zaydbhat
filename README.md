@@ -44,6 +44,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+## 🤖 **AI Tools I Use Daily**
+
+### **Development & Coding**
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-0B8FF2?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+
+### **Research & Productivity**
+[![Claude](https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com)
+
 #### **Automation**
 ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 
@@ -55,14 +67,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaydbhat&layout=compact&theme=radical)
 
----
-
-### 📫 **Let's Connect**
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/zaid-nazir-bhat-2b771237a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zayd_nazir?igsh=MTdlNWF6cng0M2Nncw==)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zaydnazir?si=cwprAhh2Q9I8Fs6Q)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](xvprime.zzz@gmail.com)
 
 ---
