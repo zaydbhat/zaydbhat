@@ -2,9 +2,9 @@
 
 ## I am Zayd Nazir Bhat
 
-**AI Researcher | Engineer | Developer**
+**AI Researcher | AI native Developer | Engineer**
 
-🎯 **Domains I am interested in:** AI/ML, Data Science, Algorithmic trading, Cybersecurity and Hardware
+🎯 **Domains I am interested in:** AI/ML, Software development, Computer architecture and hardware, GPUs, Mathematics
 
 🎓 **Currently a Student** of Electrical engineering at University of Kashmir
 
